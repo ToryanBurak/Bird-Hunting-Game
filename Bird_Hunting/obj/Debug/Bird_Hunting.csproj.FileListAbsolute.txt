@@ -1,0 +1,33 @@
+C:\Users\Burak Toryan\source\repos\Bird_Hunting\Bird_Hunting\bin\Debug\Bird_Hunting.exe.config
+C:\Users\Burak Toryan\source\repos\Bird_Hunting\Bird_Hunting\bin\Debug\Bird_Hunting.exe
+C:\Users\Burak Toryan\source\repos\Bird_Hunting\Bird_Hunting\bin\Debug\Bird_Hunting.pdb
+C:\Users\Burak Toryan\source\repos\Bird_Hunting\Bird_Hunting\obj\Debug\Bird_Hunting.csproj.AssemblyReference.cache
+C:\Users\Burak Toryan\source\repos\Bird_Hunting\Bird_Hunting\obj\Debug\Bird_Hunting.csproj.SuggestedBindingRedirects.cache
+C:\Users\Burak Toryan\source\repos\Bird_Hunting\Bird_Hunting\obj\Debug\Bird_Hunting.Form1.resources
+C:\Users\Burak Toryan\source\repos\Bird_Hunting\Bird_Hunting\obj\Debug\Bird_Hunting.Properties.Resources.resources
+C:\Users\Burak Toryan\source\repos\Bird_Hunting\Bird_Hunting\obj\Debug\Bird_Hunting.csproj.GenerateResource.cache
+C:\Users\Burak Toryan\source\repos\Bird_Hunting\Bird_Hunting\obj\Debug\Bird_Hunting.csproj.CoreCompileInputs.cache
+C:\Users\Burak Toryan\source\repos\Bird_Hunting\Bird_Hunting\obj\Debug\Bird_Hunting.exe
+C:\Users\Burak Toryan\source\repos\Bird_Hunting\Bird_Hunting\obj\Debug\Bird_Hunting.pdb
+E:\C# Projeler\Bird Hunting\Bird_Hunting\Bird_Hunting\bin\Debug\Bird_Hunting.exe.config
+E:\C# Projeler\Bird Hunting\Bird_Hunting\Bird_Hunting\bin\Debug\Bird_Hunting.exe
+E:\C# Projeler\Bird Hunting\Bird_Hunting\Bird_Hunting\bin\Debug\Bird_Hunting.pdb
+E:\C# Projeler\Bird Hunting\Bird_Hunting\Bird_Hunting\obj\Debug\Bird_Hunting.csproj.AssemblyReference.cache
+E:\C# Projeler\Bird Hunting\Bird_Hunting\Bird_Hunting\obj\Debug\Bird_Hunting.csproj.SuggestedBindingRedirects.cache
+E:\C# Projeler\Bird Hunting\Bird_Hunting\Bird_Hunting\obj\Debug\Bird_Hunting.Form1.resources
+E:\C# Projeler\Bird Hunting\Bird_Hunting\Bird_Hunting\obj\Debug\Bird_Hunting.Properties.Resources.resources
+E:\C# Projeler\Bird Hunting\Bird_Hunting\Bird_Hunting\obj\Debug\Bird_Hunting.csproj.GenerateResource.cache
+E:\C# Projeler\Bird Hunting\Bird_Hunting\Bird_Hunting\obj\Debug\Bird_Hunting.csproj.CoreCompileInputs.cache
+E:\C# Projeler\Bird Hunting\Bird_Hunting\Bird_Hunting\obj\Debug\Bird_Hunting.exe
+E:\C# Projeler\Bird Hunting\Bird_Hunting\Bird_Hunting\obj\Debug\Bird_Hunting.pdb
+E:\C# YEDEKLER\C# Projeler\Bird Hunting\Bird_Hunting\Bird_Hunting\bin\Debug\Bird_Hunting.exe.config
+E:\C# YEDEKLER\C# Projeler\Bird Hunting\Bird_Hunting\Bird_Hunting\bin\Debug\Bird_Hunting.exe
+E:\C# YEDEKLER\C# Projeler\Bird Hunting\Bird_Hunting\Bird_Hunting\bin\Debug\Bird_Hunting.pdb
+E:\C# YEDEKLER\C# Projeler\Bird Hunting\Bird_Hunting\Bird_Hunting\obj\Debug\Bird_Hunting.csproj.AssemblyReference.cache
+E:\C# YEDEKLER\C# Projeler\Bird Hunting\Bird_Hunting\Bird_Hunting\obj\Debug\Bird_Hunting.csproj.SuggestedBindingRedirects.cache
+E:\C# YEDEKLER\C# Projeler\Bird Hunting\Bird_Hunting\Bird_Hunting\obj\Debug\Bird_Hunting.Form1.resources
+E:\C# YEDEKLER\C# Projeler\Bird Hunting\Bird_Hunting\Bird_Hunting\obj\Debug\Bird_Hunting.Properties.Resources.resources
+E:\C# YEDEKLER\C# Projeler\Bird Hunting\Bird_Hunting\Bird_Hunting\obj\Debug\Bird_Hunting.csproj.GenerateResource.cache
+E:\C# YEDEKLER\C# Projeler\Bird Hunting\Bird_Hunting\Bird_Hunting\obj\Debug\Bird_Hunting.csproj.CoreCompileInputs.cache
+E:\C# YEDEKLER\C# Projeler\Bird Hunting\Bird_Hunting\Bird_Hunting\obj\Debug\Bird_Hunting.exe
+E:\C# YEDEKLER\C# Projeler\Bird Hunting\Bird_Hunting\Bird_Hunting\obj\Debug\Bird_Hunting.pdb
